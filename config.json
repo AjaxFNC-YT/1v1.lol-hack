@@ -1,0 +1,47 @@
+{
+    "appData": {
+        "1v1LolPath": ""
+    },
+
+    "weaponLevels": {
+        "autosniper": 9999,
+        "9mmpistol": 9999,
+        "pump_shotgun": 9999,
+        "scar": 9999,
+        "military_sniper": 9999,
+        "flamethrower": 9999,
+        "microsmg": 9999,
+        "shorty": 9999
+    },
+    "bodyArmorLevels": {
+        "medic": 9999,
+        "construction": 9999,
+        "basic": 9999,
+        "raider": 9999,
+        "duelist": 9999,
+        "buckshot": 9999,
+        "energy": 9999
+    },
+    "champLevels": {
+        "quick": 10,
+        "shadow": 10,
+        "tron": 10,
+        "caesar": 10,
+        "jade": 10,
+        "frosty": 10
+    },
+    "gameData": {
+        "EquippedWeapons": [
+            "lol.1v1.weapons.scar",
+            "lol.1v1.weapons.pump_shotgun",
+            "lol.1v1.weapons.military_sniper"
+        ],
+        "Nickname": "",
+        "LoLCoins": 999999,
+        "Victories": {
+            "Showdown": 999,
+            "Showdown_Duos": 999,
+            "1v1_Clash": 999
+        }
+    }
+}
