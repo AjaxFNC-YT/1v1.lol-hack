@@ -116,7 +116,7 @@ To run the project, navigate to the root folder and run the `run.bat` file by do
 - **Max Victories**: Set the number of victories in various game modes, including `Showdown`, `Showdown_Duos`, and `1v1_Clash`, to a maximum of 999.
 
 
-## Version Information
+## Other Information
 
 - **Version**: 1.0.0
 - **Changelog**: Initial release.
