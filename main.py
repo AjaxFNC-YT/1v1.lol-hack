@@ -1,3 +1,5 @@
+# Created by AjaxFNC-YT
+
 import asyncio
 import json
 import os
@@ -168,7 +170,7 @@ async def start_proxy():
         print("Closing this window will terminate 1v1 LOL")
 
         set_proxy_settings("127.0.0.1:8080", 1)
-        set_console_title("ATRIA 1v1 LOL LAUNCHER")
+        set_console_title("1v1 LOL LAUNCHER | Created by AjaxFNC-YT")
 
         launch_1v1_lol()
 
